@@ -1,5 +1,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+alembic/__pycache__/
+alembic/versions/__pycache__/
+alembic/versions/
+alembic.ini
+alembic/script.py.mako
 *.py[cod]
 *$py.class
 
